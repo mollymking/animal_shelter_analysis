@@ -5,3 +5,4 @@ prettypandas
 seaborn
 shapely
 geopandas
+contextily
