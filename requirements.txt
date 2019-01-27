@@ -3,4 +3,3 @@ numpy
 pandas
 prettypandas
 shapely
-contextily
