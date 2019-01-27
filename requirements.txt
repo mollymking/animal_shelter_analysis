@@ -2,4 +2,6 @@ matplotlib
 numpy
 pandas
 prettypandas
+seaborn
 shapely
+geopandas
