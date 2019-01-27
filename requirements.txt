@@ -1,6 +1,6 @@
-contextily
-geopandas
+matplotlib
 numpy
 pandas
 prettypandas
 shapely
+contextily
