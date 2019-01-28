@@ -1,0 +1,12 @@
+
+Familiar with basics of Jupyter notebooks and Python:
+
+# is used to comment out a line of code so that it won't run
+
+
+
+
+
+OVERALL LESSONS FROM THIS
+*How to download and import a dataset from the internet
+*Looking at histograms and also counts by categorical variables
